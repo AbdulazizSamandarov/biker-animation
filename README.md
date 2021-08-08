@@ -1,2 +1,1 @@
-# biker-animation
-biker animation
+https://abdulazizsamandarov.github.io/biker-animation/
